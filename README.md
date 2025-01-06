@@ -31,3 +31,11 @@ Here’s a step-by-step guide to test the setup:
 - **Monitor logs**: Use logcat in Android Studio to monitor the logs for any issues or errors during the connection and communication process.
 - **Permissions**: Verify that all necessary permissions are granted, as BLE operations often require specific permissions like `BLUETOOTH_CONNECT`, `BLUETOOTH_SCAN`, and location access.
 
+### Feature Work: Refactoring and Enhancements
+
+For future improvements, the project can be refactored and enhanced using the following techniques:
+
+1. **Refactor to MVI (Model-View-Intent) Architecture**  
+2. **Implement Clean Architecture**  
+3. **Integrate Hilt for Dependency Injection**  
+
